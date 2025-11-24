@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=09F7F7&center=true&vCenter=true&width=650&lines=Hi+I'm+Nethmi+Asinsala+👋;Software+Engineering+Undergraduate;Passionate+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=09F7F7&center=true&vCenter=true&width=650&lines=Hi+I'm+Nethmi+Asinsala+👋;" />
 </h1>
 
 <p align="center">
@@ -71,5 +71,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=20C20E&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Passionate+Developer;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=20C20E&center=true&vCenter=true&width=700&lines=Software+Engineering+Always+Learning+New+Things">
 </p>
