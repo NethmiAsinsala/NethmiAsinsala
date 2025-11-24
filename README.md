@@ -3,15 +3,12 @@
 </h1>
 
 <p align="center">
-  💻 Undergraduate at University of Colombo – BIT<br>
-  🚀 Passionate about Software Engineering<br>
-  🌱 Currently learning: Angular, Spring Boot<br>
-  🇱🇰 Based in Sri Lanka  
+Software engineering enthusiast and BIT undergraduate at the University of Colombo. Focused on mastering full-stack development with cutting-edge technologies. Dedicated to continuous learning and building real-world software solutions.
 </p>
 
 ---
 
-## <p align="center">🚀 Tech Stack (DevIcons)</p>
+## <p align="center">🚀 Tech Stack</p>
 
 ### <p align="center">👨‍💻 Languages</p>
 <p align="center">
@@ -49,7 +46,7 @@
 
 ---
 
-## <p align="center">📊 GitHub Stats</p>
+## <p align="center">📊 GitHub Status</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NethmiAsinsala&show_icons=true&theme=tokyonight" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiAsinsala&theme=tokyonight" height="150px"/>
