@@ -7,11 +7,12 @@ Software engineering enthusiast and BIT undergraduate at the University of Colom
 Focused on mastering full-stack development with cutting-edge technologies.  
 Dedicated to continuous learning and building real-world software solutions.
 </p><br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## <p align="center">Tech Stack</p>
+# <p align="center">Tech Stack</p>
 
 ### <p align="center">Programming Languages</p>
 <p align="center">
@@ -35,15 +36,19 @@ Dedicated to continuous learning and building real-world software solutions.
 
 ### <p align="center">Databases & Tools</p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p><br>
 
-## <p align="center">GitHub Stats</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+# <p align="center">GitHub Stats</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NethmiAsinsala&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiAsinsala&theme=tokyonight" height="150"/>
@@ -53,9 +58,7 @@ Dedicated to continuous learning and building real-world software solutions.
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
----
-
-## <p align="center">Contact Me</p>
+# <p align="center">Contact Me</p>
 
 <p align="center">
   <a href="mailto:nethmiasinsala87@gmail.com">
