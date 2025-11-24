@@ -10,33 +10,33 @@ Dedicated to continuous learning and building real-world software solutions.
 
 ---
 
-## <p align="center">Tech Stack</p>
+## <p align="center">Tech Stack</p><br>
 
 ### <p align="center">Languages</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-</p>
+</p><br>
 
 ### <p align="center">Frontend</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
+</p><br>
 
 ### <p align="center">Backend</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-</p>
+</p><br>
 
 ### <p align="center">Databases</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-</p>
+</p><br>
 
 ### <p align="center">Tools</p>
 <p align="center">
@@ -44,7 +44,7 @@ Dedicated to continuous learning and building real-world software solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="filter: invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-</p>
+</p><br>
 
 ---
 
@@ -52,7 +52,7 @@ Dedicated to continuous learning and building real-world software solutions.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NethmiAsinsala&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiAsinsala&theme=tokyonight" height="150"/>
-</p>
+</p><br>
 
 ---
 
