@@ -7,11 +7,17 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<p align="center">
   Passionate about building scalable, real-world applications using modern technologies.  
   Focused on continuous learning, clean architecture, and practical problem-solving.
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 👩‍💻 About Me
 
@@ -55,6 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 ---
 
 ## 📊 GitHub Statistics
@@ -70,6 +80,9 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NethmiAsinsala&theme=tokyonight&row=1&column=6"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ---
@@ -92,6 +105,9 @@
 - 🔗 Live Demo: https://nethmiasinsala.github.io/GrillMaster-POS-System/
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 📌 Current Activities
 
@@ -101,6 +117,9 @@
 - 💼 Open for **internships & junior developer opportunities**
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 🤝 Connect With Me
 
@@ -113,9 +132,12 @@
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 <p align="center" >
- ### Feel free to reach out for collaboration, learning, or project discussions!
+ Feel free to reach out for collaboration, learning, or project discussions!
 </p>
 
 <p align="center">
