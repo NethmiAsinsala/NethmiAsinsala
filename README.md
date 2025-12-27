@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=09F7F7&center=true&vCenter=true&width=650&background=0D1117&lines=Hi+I'm+Nethmi+Asinsala;Software+Engineering+Undergraduate;BIT+Student+at+University+of+Colombo;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=09F7F7&center=true&vCenter=true&width=650&background=0D1117&lines=Hi+I'm+Nethmi+Asinsala;Software+Engineering+Undergraduate;Welcome+to+My+GitHub+Profile!" />
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@
 - 🚀 Enjoy building **real-world projects** and improving code quality
 - 🎨 Hobby: UI designing & exploring modern web trends
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -65,8 +65,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -85,8 +83,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 ### 🍔 Burger Shop Management System
@@ -104,7 +100,6 @@
 - Technologies: **Java, MVC Architecture, File Handling**
 - 🔗 Live Demo: https://nethmiasinsala.github.io/GrillMaster-POS-System/
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -115,8 +110,7 @@
 - 📚 Learning **Spring Boot, RESTful APIs & Angular**
 - 🤝 Looking to collaborate on **Java / Web-based projects**
 - 💼 Open for **internships & junior developer opportunities**
-
----
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
