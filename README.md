@@ -11,18 +11,7 @@
   Focused on continuous learning, clean architecture, and practical problem-solving.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nethmi-asinsala-gunarathna">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nethmiasinsala87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
 
 ## 👩‍💻 About Me
 
@@ -87,6 +76,11 @@
 
 ## 🚀 Featured Projects
 
+### 🍔 Burger Shop Management System
+- Java-based restaurant management system using MVC architecture and file handling.  
+- Features order processing, billing, menu management, and persistent data storage.
+- 🔗 Code URL : https://github.com/NethmiAsinsala/BurgerShop.git
+
 ### 🌦️ Weather Web Application
 - Responsive weather forecasting app
 - Technologies: **HTML, CSS, JavaScript, OpenWeather API**
@@ -96,11 +90,6 @@
 - POS system for restaurant management
 - Technologies: **Java, MVC Architecture, File Handling**
 - 🔗 Live Demo: https://nethmiasinsala.github.io/GrillMaster-POS-System/
-
-### 📔 Mood & Journal Tracker
-- Track daily mood and journal entries
-- Technologies: **HTML, CSS, JavaScript**
-- 🔗 GitHub Repo: (Add link)
 
 ---
 
@@ -125,8 +114,8 @@
   </a>
 </p>
 
-<p align="center">
-  💬 Feel free to reach out for collaboration, learning, or project discussions!
+<p align="center" >
+ ### Feel free to reach out for collaboration, learning, or project discussions!
 </p>
 
 <p align="center">
