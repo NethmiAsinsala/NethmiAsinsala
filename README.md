@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=09F7F7&center=true&vCenter=true&width=650&background=0D1117&lines=Hi+I'm+Nethmi+Asinsala;Welcome+to+My+GitHub+Profile" />
 </h1>
 
+# <p align="center">GitHub Stats</p>
 <p align="center">
-Software engineering enthusiast and BIT undergraduate at the University of Colombo.  
-Focused on mastering full-stack development with cutting-edge technologies.  
-Dedicated to continuous learning and building real-world software solutions.
+  <img src="https://github-readme-stats.vercel.app/api?username=NethmiAsinsala&show_icons=true&theme=tokyonight&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=NethmiAsinsala&theme=tokyonight" height="150"/>
 </p><br>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
