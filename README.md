@@ -50,7 +50,7 @@ Dedicated to continuous learning and building real-world software solutions.
 
 # <p align="center">GitHub Stats</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NethmiAsinsala&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NethmiAsinsala&show_icons=true&theme=tokyonight&cache_seconds=86400" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiAsinsala&theme=tokyonight" height="150"/>
 </p><br>
 
