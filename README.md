@@ -83,21 +83,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## 🚀 Featured Projects
-
-### 🍔 Burger Shop Management System
-- Java-based restaurant management system using MVC architecture and file handling.  
-- Features order processing, billing, menu management, and persistent data storage.
-- 🔗 Code URL : https://github.com/NethmiAsinsala/BurgerShop.git
-
-### 🌦️ Weather Web Application
-- Responsive weather forecasting app
-- Technologies: **HTML, CSS, JavaScript, OpenWeather API**
-- 🔗 Live Demo: https://nethmiasinsala.github.io/wetherApp/
-
-### 🍔 GrillMaster POS System
-- POS system for restaurant management
-- Technologies: **Java, MVC Architecture, File Handling**
 - 🔗 Live Demo: https://nethmiasinsala.github.io/GrillMaster-POS-System/
 
 <p align="center">
