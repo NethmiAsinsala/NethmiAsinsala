@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineering Enthusiast | BIT Undergraduate | Full-Stack Developer</b>
+  <b>Intern Software Engineering  | BIT Undergraduate | Full-Stack Developer</b>
 </p>
 
 <p align="center">
@@ -70,15 +70,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NethmiAsinsala&theme=tokyonight&row=1&column=6"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-  
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
