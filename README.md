@@ -19,16 +19,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## 👩‍💻 About Me
-
-- 🎓 Undergraduate at **University of Colombo**, pursuing **Bachelor of Information Technology (External)**
-- 💻 Interested in **Full-Stack Development**, **Software Engineering**, and **System Design**
-- 🌱 Currently learning **Advanced Java, Spring Boot, Angular & REST APIs**
-- 🚀 Enjoy building **real-world projects** and improving code quality
-- 🎨 Hobby: UI designing & exploring modern web trends
-
-
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -49,6 +39,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
 </p>
 
 ### 🗄️ Databases & Tools
@@ -83,18 +74,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-- 🔗 Live Demo: https://nethmiasinsala.github.io/GrillMaster-POS-System/
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
-
-## 📌 Current Activities
-
-- 🔨 Currently working on **academic & personal software projects**
-- 📚 Learning **Spring Boot, RESTful APIs & Angular**
-- 🤝 Looking to collaborate on **Java / Web-based projects**
-- 💼 Open for **internships & junior developer opportunities**
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
